@@ -42,7 +42,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spboot-k8s-demo.jar</finalName>
+		<finalName>spboot-k8s-demo</finalName>
 	</build>
 
 </project>
